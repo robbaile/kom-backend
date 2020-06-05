@@ -1,0 +1,8 @@
+C:\projects\ada\mobile-app\KOM.WebApi\KOM.Entities\bin\Debug\netcoreapp3.1\KOM.Entities.deps.json
+C:\projects\ada\mobile-app\KOM.WebApi\KOM.Entities\bin\Debug\netcoreapp3.1\KOM.Entities.dll
+C:\projects\ada\mobile-app\KOM.WebApi\KOM.Entities\obj\Debug\netcoreapp3.1\KOM.Entities.csprojAssemblyReference.cache
+C:\projects\ada\mobile-app\KOM.WebApi\KOM.Entities\obj\Debug\netcoreapp3.1\KOM.Entities.AssemblyInfoInputs.cache
+C:\projects\ada\mobile-app\KOM.WebApi\KOM.Entities\obj\Debug\netcoreapp3.1\KOM.Entities.AssemblyInfo.cs
+C:\projects\ada\mobile-app\KOM.WebApi\KOM.Entities\bin\Debug\netcoreapp3.1\KOM.Entities.pdb
+C:\projects\ada\mobile-app\KOM.WebApi\KOM.Entities\obj\Debug\netcoreapp3.1\KOM.Entities.dll
+C:\projects\ada\mobile-app\KOM.WebApi\KOM.Entities\obj\Debug\netcoreapp3.1\KOM.Entities.pdb

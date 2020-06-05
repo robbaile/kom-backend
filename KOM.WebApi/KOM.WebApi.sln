@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KOM.WebApi", "KOM.WebApi\KOM.WebApi.csproj", "{703D1C8D-8403-4FB0-8D20-DA291909966E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KOM.Entities", "KOM.Entities\KOM.Entities.csproj", "{6BC7217D-2D3A-424C-80EA-2FE3459FE13F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{703D1C8D-8403-4FB0-8D20-DA291909966E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{703D1C8D-8403-4FB0-8D20-DA291909966E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{703D1C8D-8403-4FB0-8D20-DA291909966E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{703D1C8D-8403-4FB0-8D20-DA291909966E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BC7217D-2D3A-424C-80EA-2FE3459FE13F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BC7217D-2D3A-424C-80EA-2FE3459FE13F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BC7217D-2D3A-424C-80EA-2FE3459FE13F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BC7217D-2D3A-424C-80EA-2FE3459FE13F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {22DB9D81-30F2-4614-89E3-E70A566DB253}
+	EndGlobalSection
+EndGlobal
